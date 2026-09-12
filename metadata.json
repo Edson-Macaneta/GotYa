@@ -1,0 +1,8 @@
+{
+  "name": "GotYa",
+  "description": "Super portal inteligente e direto para pesquisas de casas, carros, empregos, tecnologia, viagens, ferramentas e serviços com modo IA e modo simples.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
